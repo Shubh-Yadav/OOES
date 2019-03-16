@@ -10,7 +10,7 @@ Faculty users are allowed to create exams for the courses they teach. They can s
 
 Student users can take the exams of the courses they are registered in. Once an exam is successfully submitted by the student, he cannot attempt it again. The Students have an option to view their performance in the past exams.
 
-## Getting Started
+## How to Run
 
 1. Extract the zip file of the GitHub repository to an empty folder. Let this folder be called OOES.
 
@@ -31,5 +31,5 @@ Create an admin user in database to log in. Set up MongoDB on port 27017. Create
 
 ## Contributing
 
-We encourage you to contribute to OOES project. Suggest new features and fix bugs to contribute!
+I encourage you to contribute to OOES project. Suggest new features and fix bugs to contribute!
 
